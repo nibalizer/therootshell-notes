@@ -1,0 +1,18 @@
+
+command spotting
+pwd
+cd
+ls
+mv
+cp
+sed
+vim
+curl [-s -i -I -L]
+echo
+ping
+grep
+jq 
+wc 
+tr
+cut
+awk

@@ -1,0 +1,18 @@
+
+
+pwd
+ls
+cd
+grep
+cat
+sed
+rm
+cp
+man
+
+curl
+  -s
+  -L
+  -i
+  -I
+
